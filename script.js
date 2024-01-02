@@ -1,7 +1,7 @@
 const input = document.querySelector('#fruit');
 const suggestions = document.querySelector('.suggestions ul');
 const fruit = [
-  'Apple', 'Apricot', 'Avocado 🥑', 'Banana', 'Bilberry', 'Blackberry', // ... (your entire list)
+  'Apple', 'Pineapple', 'Apricot', 'Avocado 🥑', 'Banana', 'Blueberry', 'Blackberry', // ... (your entire list)
 ];
 
 function search(str) {
